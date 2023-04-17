@@ -6,7 +6,6 @@ const Panel = () => {
   return (
     <div className="panel">
       <WeatherInfo />
-      <HourlyForecast />
       <DailyForecast />
     </div>
   );
